@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manisairam</h1>
-<h3 align="center">About 🚀 Passionate Computer Science 🖥️graduate🎓 with a solid foundation in software development....</h3>
+<h3 align="center">🚀 Passionate Computer Science 🖥️graduate🎓 with a solid foundation in software development....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manisairam18&label=Profile%20views&color=0e75b6&style=flat" alt="manisairam18" /> </p>
 
