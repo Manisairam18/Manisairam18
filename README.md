@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manisairam</h1>
 <h3 align="center">🚀 Passionate Computer Science 🖥️graduate🎓with a solid foundation in software development....</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" alt="Coding" width="400" src=https://iconscout.com/lottie-animation/software-engineer-developing-website-6369145>
 
 
 - 🌱 I’m currently learning **Learning and mastering the latest technologies in software development.**
