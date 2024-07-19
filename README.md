@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manisairam</h1>
 <h3 align="center">🚀 Passionate Computer Science 🖥️graduate🎓with a solid foundation in software development....</h3>
-<img align="right" alt="Coding" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Flinkapi-solutions%2Fhow-to-reach-developer-experience-supreme-level-part-one-ed87015af29f&psig=AOvVaw3TGY1BbfRmEEEv0Y_ff-cv&ust=1721455812310000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCm6Oa4socDFQAAAAAdAAAAABAE>
+<img align="right" alt="Coding" width="400" src=![Coding](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_EFjA5NRdYbOOpLzH4PjKw.png)
+>
 
 
 - 🌱 I’m currently learning **Learning and mastering the latest technologies in software development.**
