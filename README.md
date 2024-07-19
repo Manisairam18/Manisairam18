@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manisairam</h1>
 <h3 align="center">🚀 Passionate Computer Science 🖥️graduate🎓with a solid foundation in software development....</h3>
-<img align="right" alt="Coding" width="400" src=<a href="https://iconscout.com/lottie-animations/software" class="text-underline font-size-sm" target="_blank">Software Engineer Developing Website</a> by <a href="https://iconscout.com/contributors/iconscout" class="text-underline font-size-sm">IconScout Store</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>>
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 
 - 🌱 I’m currently learning **Learning and mastering the latest technologies in software development.**
