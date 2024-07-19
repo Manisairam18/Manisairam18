@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manisairam</h1>
 <h3 align="center">🚀 Passionate Computer Science 🖥️graduate🎓with a solid foundation in software development....</h3>
 <!--img align="right" alt="Coding" width="400" src=https://github.com/user-attachments/assets/5789519d-7cc5-4458-98fb-d1f64825443d-->
-<video controls autoplay loop muted preload="auto" src=https://github.com/user-attachments/assets/3073a3cd-dc5e-40f9-a2e2-68f9cc419d7f></video>
+<video  align = "right" width = "400" controls autoplay loop muted preload ="auto" src=https://github.com/user-attachments/assets/3073a3cd-dc5e-40f9-a2e2-68f9cc419d7f></video>
 
 
 
