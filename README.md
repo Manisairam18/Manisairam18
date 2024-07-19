@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manisairam</h1>
 <h3 align="center">🚀 Passionate Computer Science 🖥️graduate🎓with a solid foundation in software development....</h3>
-<img align="right" alt="Coding" width="400" src=![Coding](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_EFjA5NRdYbOOpLzH4PjKw.png)
->
+<img align="right" alt="Coding" width="400" src=[![Coding](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_EFjA5NRdYbOOpLzH4PjKw.png)](https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)>
+
 
 
 - 🌱 I’m currently learning **Learning and mastering the latest technologies in software development.**
