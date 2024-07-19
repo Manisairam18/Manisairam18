@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manisairam</h1>
 <h3 align="center">🚀 Passionate Computer Science 🖥️graduate🎓with a solid foundation in software development....</h3>
 <img align="right" alt="Coding" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs%2Fblob%2Fmaster%2FREADME.md%3Fplain%3D1&psig=AOvVaw3TGY1BbfRmEEEv0Y_ff-cv&ust=1721455812310000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCm6Oa4socDFQAAAAAdAAAAABAJ>
-![0_7Q3yvSIv_t0ioJ-Z](https://github.com/user-attachments/assets/8a7d35c4-f2a2-4d2a-9d6d-2169cc201674)
 
 
 
