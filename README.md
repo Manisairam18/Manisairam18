@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Learning and mastering the latest technologies in software development.**
 
-- 👨‍💻 All of my projects are available at [https://manisairam18.github.io/ManisairamsPortfolio/](https://manisairam18.github.io/ManisairamsPortfolio/)
+- 👨‍💻 All of my recent projects are available at [https://manisairam18.github.io/ManisairamsPortfolio/](https://manisairam18.github.io/ManisairamsPortfolio/)
 
 - 💬 Ask me about **Software development and web development...**
 
