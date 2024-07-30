@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manisairam</h1>
 <h3 align="center">🚀 Passionate Computer Science 🖥️graduate🎓 with a solid foundation in software development....</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manisairam18" alt="manisairam18" /></a> </p>
-
 - 🌱 I’m currently learning **Learning and mastering the latest technologies in software development.**
 
 - 👨‍💻 All of my projects are available at [https://manisairam18.github.io/ManisairamsPortfolio/](https://manisairam18.github.io/ManisairamsPortfolio/)
